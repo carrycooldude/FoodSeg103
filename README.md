@@ -1,4 +1,6 @@
 # FoodSeg103
+[DataSet](https://github.com/LARC-CMU-SMU/FoodSeg103-Benchmark-v1) 
+![Screenshot from 2024-07-03 01-16-25](https://github.com/carrycooldude/FoodSeg103/assets/41143496/04bb0cee-1279-408b-9e53-0e5ca6610b38)
 
 ### Task 1: Food Object Detection Algorithm
 
