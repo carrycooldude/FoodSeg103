@@ -5,10 +5,7 @@
 
 By [Xiongwei Wu](http://xiongweiwu.github.io/), [Xin Fu](https://xinfu607.github.io/), Ying Liu, [Ee-Peng Lim](http://www.mysmu.edu/faculty/eplim/), [Steven C.H. Hoi](https://sites.google.com/view/stevenhoi/home/), [Qianru Sun](https://qianrusun.com/).
   
-
-<div align="center">
-  <img src="resources/foodseg103.png" width="800"/>
-</div>
+![image](https://github.com/carrycooldude/FoodSeg103/assets/41143496/c7f8e2e1-8f23-4640-9c4a-b44374e5580d)
 <br />
 
 ## Introduction
