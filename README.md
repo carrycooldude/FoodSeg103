@@ -1,5 +1,26 @@
 # FoodSeg103
 [DataSet](https://github.com/LARC-CMU-SMU/FoodSeg103-Benchmark-v1) 
+
+# A Large-Scale Benchmark for Food Image Segmentation
+
+By [Xiongwei Wu](http://xiongweiwu.github.io/), [Xin Fu](https://xinfu607.github.io/), Ying Liu, [Ee-Peng Lim](http://www.mysmu.edu/faculty/eplim/), [Steven C.H. Hoi](https://sites.google.com/view/stevenhoi/home/), [Qianru Sun](https://qianrusun.com/).
+  
+
+<div align="center">
+  <img src="resources/foodseg103.png" width="800"/>
+</div>
+<br />
+
+## Introduction
+
+We build a new food image dataset FoodSeg103 containing 7,118 images. We annotate these images with 104 ingredient classes and each image has an average of 6 ingredient labels and pixel-wise masks.
+In addition, we propose a multi-modality pre-training approach called ReLeM that explicitly equips a segmentation model with rich and semantic food knowledge.
+
+In this software, we use three popular semantic segmentation methods (i.e., Dilated Convolution based, Feature Pyramid based, and Vision Transformer based) as baselines, and evaluate them as well as ReLeM on our new datasets. We believe that the FoodSeg103 and the pre-trained models using ReLeM can serve as a benchmark to facilitate future works on fine-grained food image understanding. 
+
+Please refer our [paper](https://arxiv.org/abs/2105.05409) and our [homepage](https://xiongweiwu.github.io/foodseg103.html) for more details.
+
+
 ![Screenshot from 2024-07-03 01-16-25](https://github.com/carrycooldude/FoodSeg103/assets/41143496/04bb0cee-1279-408b-9e53-0e5ca6610b38)
 
 ### Task 1: Food Object Detection Algorithm
